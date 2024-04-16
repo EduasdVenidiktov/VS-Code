@@ -1,0 +1,46 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #fff;
+}
+
+h1 {
+  margin-top: 20px;
+}
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+ul {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 40px;
+}
+
+a {
+  text-decoration: none;
+  color: currentColor;
+}
+
+button {
+  cursor: pointer;
+}
+
+.container {
+  background-color: aliceblue;
+  width: 1158px;
+  padding: 20px;
+  margin: 0 auto;
+  outline: 2px solid green;
+}
+
+.block {
+  margin-bottom: 20px;
+}
+p {
+}
